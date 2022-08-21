@@ -1,0 +1,8 @@
+{
+  "package-specs": [{ "module": "commonjs", "in-source": true }],
+  "suffix": ".bs.js",
+  "name": "MSW",
+  "sources": [{ "dir": "src", "subdirs": false }],
+  "bsc-flags": [],
+  "bs-dependencies": []
+}
